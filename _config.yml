@@ -1,0 +1,55 @@
+# Use this file to control the main attributes of the website
+port: 9292
+# You
+name: Natasha Levkovich
+
+# Title for your site as it will appear in google
+# e.g. Resume, Curriculum Vitae, Work History
+title:  Natasha Levkovich CV
+
+# SEO description
+description: Digital resume for Natasha Levkovich, Senior Software Engineer
+
+# URL of this resume
+url: 'http://cv.gburanov.me'
+
+# URL of your personal website (make same as URL if you don't have one)
+personal: 'http://gburanov.me'
+
+# these should be pretty self-explanatory :-P
+email: natasha.ml.lev1993@gmail.com
+
+# Show this in the footer
+copyright: All rights reserved.
+
+# What should the navigation be called?
+navigation: navigation
+
+# Google analytics ID: UA-XXXXX-X
+analytics: UA-59957903-3
+
+# Jekyll assets gem
+assets:
+  dirname: assets
+  baseurl: /assets/
+  css_compressor: yui
+  js_compressor: yui
+  cachebust: hard
+  cache: false
+  gzip: nil # Cloudflare will do this
+  sources:
+    - _assets/javascripts
+    - _assets/stylesheets
+
+# Files in this repo that we don't want to go to the web
+exclude: [
+  'scss',
+  '*.rb',
+  '*.yml',
+  'vendor',
+  'Gemfile',
+  'Gemfile.lock',
+  '*.sh',
+  'README.md',
+  'LICENSE.md',
+]

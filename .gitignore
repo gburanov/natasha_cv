@@ -1,0 +1,13 @@
+_drafts/
+.DS_Store
+*.swp
+Gemfile.lock
+
+.idea
+.sass-cache
+.bundle
+.byebug_history
+
+tmp
+
+_site/

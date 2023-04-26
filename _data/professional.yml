@@ -1,0 +1,118 @@
+- org:  <a href="https://en.gamigo.com/">Gamigo</a>
+  role: Senior Software Developer (Java)
+  location: Berlin, DE(Remote now from Wangen im Allgäu)
+  when: May 2020 - Now
+  responsibilities:
+    - Senior Backend Developer for different game platforms
+    - Leading various projects around account policies, security, platform, finance methods integration(paypal, ...), bonus programs, etc
+    - Guiding new people
+    - Solving problems
+  technical skills:
+    - Java 8/17
+    - Spring boot, Spring Framework
+    - GCP
+    - JUnit, Mockito
+    - Log4, ELK stack
+    - MSSQL, PostgreSQL, Hibernate, Jdbc, Jpa, Mysql
+    - Maven, Gradle
+    - Camel, Rabbitmq
+    - Docker, Tomcat
+    - HAProxy, Httpd
+    - Quartz
+    - Hessian, Rest, Soap
+    - Kubernetes
+    - MacOS
+    - Intellij idea
+
+- org:  <a href="https://applift.com/">Applift</a>
+  role: Senior Software Developer (Java/Kotlin/Python)
+  location: Berlin, DE
+  when: Dec 2019 - May 2020
+  responsibilities:
+    - Senior Backend Developer for advertisements
+    - Gamigo has bought Applift
+  technical skills:
+    - Java 11, Kotlin, Python, Go(a bit)
+    - Spring boot
+    - Log4, ELK stack
+    - PostgreSQL, Hibernate, Jdbc, Jpa
+    - Gradle
+    - Camel
+    - Tomcat
+    - Ktor
+    - Rest
+    - CircleCI
+    - Linux
+    - GraphQL
+    - Selenium
+
+- org:  <a href="https://wargaming.com/en">Wargaming</a>
+  role: Kotlin/Java Software Engineer
+  location: Minsk, Belarus
+  when: Dec 2017 - Nov 2019
+  responsibilities:
+    - Lead for the CMDBuild(Infrastructure project)
+    - Monitoring project for the microservice architecture - increased the stability of the system a lot
+    - CI integration for many microservices (Docker, Jenkins)
+    - Increased the test coverage of Kotlin/Java projects
+    - integration of Data Science team with Developers
+  technical skills:
+    - Kotlin, Java 8, Python(a little bit), Jython
+    - ELK stack
+    - Google Guice
+    - Nats, Kafka
+    - Hazelcast
+    - Apache Load Balancing(httpd). In future it will be nginx.
+    - PostgreSQL, JOOQ’s DSL, JOOQ
+    - Ansible, Puppet(We write puppet manifests for our nodes)
+    - Jenkins
+    - Jmeter
+    - Linux + MacOS
+    - Intellij idea
+
+- org:  <a href="https://ifuture.by">Codeworks/Ifuture(Panbet Ltd)</a>
+  role: Java Software Engineer
+  location: Minsk, Belarus
+  when: Jun 2015 - Nov 2017
+  responsibilities:
+    - Lots of communication with Saint-Petersburg office
+    - Project Marathonbet (sport betting + casino, 2k ppm).
+    - integration of several external partners in the system
+  technical skills:
+    - Java 8, Microservices, Spring boot
+    - Ant, Maven, Gradle
+    - Rabbitmq, Kafka, Zookeeper
+    - Docker, Tomcat
+    - Hazelcast, Ehcache
+    - HAProxy
+    - Oracle, PostgreSQL, Hibernate, Jdbc, Jpa, Liquibase
+    - JUnit, Mockito
+    - Intellij idea
+
+- org:  <a href="http://www.logic-way.com">Logic Way</a>
+  role: Java Software Engineer
+  location: Minsk, Belarus
+  when: Jun 2014 - May 2015
+  responsibilities:
+    - DKBM project.
+    - The system was built by my team from scratch and it is intended to control the lifecycle of policies\losses for obligatory insurance of a civil liability of vehicle owners (OSAGO)
+  technical skills:
+    - Java 7
+    - Spring-security,mvc
+    - apache POI
+    - jsp
+    - html,css, javascript\jquery
+    - REST/SOAP
+    - Intellij idea
+
+- org:  <a href="https://www.ispirer.com">Ispirer</a>
+  role: Java Software Engineer
+  location: Minsk, Belarus
+  when: Dec 2013 - May 2014
+  responsibilities:
+    - Migration projects(Database and applications(example, written on Progres4GL,COBOL,C#))
+  technical skills:
+    - Windows8+Linux
+    - Saphana,HpVertica,Hp,Nonstop, Mssql, Mysql, Oracle
+    - SQLWays Studio
+    - Visual Studio

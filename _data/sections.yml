@@ -1,0 +1,27 @@
+- name: About me
+  id: brief
+  layout: brief
+
+- name: Summary
+  id: summary
+  layout: list
+
+- name: Career History
+  id: professional
+  layout: block
+
+- name: Languages
+  id: languages
+  layout: brief
+
+- name: Education
+  id: education
+  layout: block
+
+- name: Additional Trainings
+  id: trainings
+  layout: block
+
+- name: Skills
+  id: skills
+  layout: cloud
